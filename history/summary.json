@@ -22,17 +22,17 @@
     "url": "https://www.udoma.bg",
     "icon": "https://favicons.githubusercontent.com/www.udoma.bg",
     "slug": "udoma-bg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 587,
-    "timeDay": 623,
-    "timeWeek": 567,
-    "timeMonth": 587,
-    "timeYear": 587,
+    "time": 685,
+    "timeDay": 2224,
+    "timeWeek": 974,
+    "timeMonth": 685,
+    "timeYear": 685,
     "dailyMinutesDown": {}
   }
 ]
