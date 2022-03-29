@@ -7,8 +7,8 @@ sites:
     url: https://www.vladko.dev
   - name: udoma.bg
     url: https://www.udoma.bg
-  - name: https://www.ashop.bg
-    url: https://www.ashop.bg
+  - name: ashop.bg
+    url: http://ashop.bg
 
     
 status-website:
