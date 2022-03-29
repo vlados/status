@@ -9,6 +9,12 @@ sites:
     url: https://www.udoma.bg
   - name: ashop.bg
     url: http://ashop.bg
+  - name: puglia.bg
+    url: https://www.puglia.bg/
+  - name: BG Property invest
+    url: https://bgpropertyinvest.com/
+  - name: KSP Electronics
+    url: https://ksp-electronics.com/
 
     
 status-website:
