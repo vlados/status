@@ -34,5 +34,23 @@
     "timeMonth": 489,
     "timeYear": 593,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "https://www.ashop.bg",
+    "url": "https://www.ashop.bg",
+    "icon": "https://favicons.githubusercontent.com/www.ashop.bg",
+    "slug": "https-www-ashop-bg",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
