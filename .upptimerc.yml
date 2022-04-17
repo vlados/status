@@ -15,7 +15,10 @@ sites:
     url: https://bgpropertyinvest.com/
   - name: KSP Electronics
     url: https://ksp-electronics.com/
-
+  - name: OMS Engeneering
+    url: https://oms-engineering.net/
+  - name: Galardo.bg
+    url: https://galardo.bg/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
