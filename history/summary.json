@@ -94,7 +94,7 @@
     "url": "https://ksp-electronics.com/",
     "icon": "https://favicons.githubusercontent.com/ksp-electronics.com",
     "slug": "ksp-electronics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -139,7 +139,7 @@
     "time": 1365,
     "timeDay": 1167,
     "timeWeek": 1466,
-    "timeMonth": 1400,
+    "timeMonth": 1409,
     "timeYear": 1365,
     "dailyMinutesDown": {}
   }
