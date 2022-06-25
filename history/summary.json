@@ -130,17 +130,17 @@
     "url": "https://galardo.bg/",
     "icon": "https://favicons.githubusercontent.com/galardo.bg",
     "slug": "galardo-bg",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1418,
-    "timeDay": 1734,
-    "timeWeek": 1654,
-    "timeMonth": 1510,
-    "timeYear": 1418,
+    "time": 1420,
+    "timeDay": 1661,
+    "timeWeek": 1646,
+    "timeMonth": 1512,
+    "timeYear": 1420,
     "dailyMinutesDown": {}
   }
 ]
