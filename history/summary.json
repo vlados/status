@@ -58,17 +58,17 @@
     "url": "https://www.puglia.bg/",
     "icon": "https://icons.duckduckgo.com/ip3/www.puglia.bg.ico",
     "slug": "puglia-bg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 941,
-    "timeDay": 368,
-    "timeWeek": 501,
-    "timeMonth": 573,
-    "timeYear": 941,
+    "time": 946,
+    "timeDay": 1584,
+    "timeWeek": 789,
+    "timeMonth": 643,
+    "timeYear": 946,
     "dailyMinutesDown": {}
   },
   {
@@ -139,7 +139,7 @@
     "time": 1704,
     "timeDay": 1379,
     "timeWeek": 1957,
-    "timeMonth": 2176,
+    "timeMonth": 2208,
     "timeYear": 1704,
     "dailyMinutesDown": {}
   }
