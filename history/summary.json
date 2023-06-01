@@ -40,7 +40,7 @@
     "url": "http://ashop.bg",
     "icon": "https://icons.duckduckgo.com/ip3/ashop.bg.ico",
     "slug": "ashop-bg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 1670,
     "timeDay": 2303,
-    "timeWeek": 1503,
+    "timeWeek": 1471,
     "timeMonth": 1430,
     "timeYear": 1714,
     "dailyMinutesDown": {}
