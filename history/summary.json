@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 325,
-    "timeDay": 571,
+    "timeDay": 393,
     "timeWeek": 548,
     "timeMonth": 515,
-    "timeYear": 337,
+    "timeYear": 338,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 525,
-    "timeDay": 372,
+    "timeDay": 333,
     "timeWeek": 529,
     "timeMonth": 523,
-    "timeYear": 515,
+    "timeYear": 516,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1943,
-    "timeDay": 1624,
+    "timeDay": 1445,
     "timeWeek": 1564,
     "timeMonth": 1521,
-    "timeYear": 2035,
+    "timeYear": 2034,
     "dailyMinutesDown": {}
   },
   {
@@ -65,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 859,
-    "timeDay": 451,
+    "timeDay": 468,
     "timeWeek": 478,
     "timeMonth": 699,
-    "timeYear": 868,
+    "timeYear": 869,
     "dailyMinutesDown": {}
   },
   {
@@ -76,14 +76,14 @@
     "url": "https://bgpropertyinvest.com/",
     "icon": "https://icons.duckduckgo.com/ip3/bgpropertyinvest.com.ico",
     "slug": "bg-property-invest",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 551,
-    "timeDay": 542,
+    "timeDay": 559,
     "timeWeek": 532,
     "timeMonth": 649,
     "timeYear": 549,
@@ -101,10 +101,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1220,
-    "timeDay": 1280,
+    "timeDay": 1095,
     "timeWeek": 1315,
     "timeMonth": 1272,
-    "timeYear": 1235,
+    "timeYear": 1234,
     "dailyMinutesDown": {}
   },
   {
@@ -119,7 +119,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 721,
-    "timeDay": 796,
+    "timeDay": 668,
     "timeWeek": 766,
     "timeMonth": 790,
     "timeYear": 724,
@@ -137,10 +137,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1666,
-    "timeDay": 1427,
+    "timeDay": 1152,
     "timeWeek": 1593,
     "timeMonth": 1530,
-    "timeYear": 1714,
+    "timeYear": 1715,
     "dailyMinutesDown": {}
   }
 ]
