@@ -14,7 +14,7 @@
     "timeDay": 404,
     "timeWeek": 515,
     "timeMonth": 501,
-    "timeYear": 348,
+    "timeYear": 349,
     "dailyMinutesDown": {}
   },
   {
@@ -68,7 +68,7 @@
     "timeDay": 571,
     "timeWeek": 480,
     "timeMonth": 571,
-    "timeYear": 865,
+    "timeYear": 866,
     "dailyMinutesDown": {}
   },
   {
@@ -76,7 +76,7 @@
     "url": "https://bgpropertyinvest.com/",
     "icon": "https://icons.duckduckgo.com/ip3/bgpropertyinvest.com.ico",
     "slug": "bg-property-invest",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
