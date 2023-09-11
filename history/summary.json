@@ -94,7 +94,7 @@
     "url": "https://ksp-electronics.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ksp-electronics.com.ico",
     "slug": "ksp-electronics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 1634,
     "timeDay": 1512,
-    "timeWeek": 1395,
+    "timeWeek": 1402,
     "timeMonth": 1430,
     "timeYear": 1673,
     "dailyMinutesDown": {}
