@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 378,
-    "timeDay": 0,
-    "timeWeek": 471,
-    "timeMonth": 486,
+    "timeDay": 698,
+    "timeWeek": 503,
+    "timeMonth": 493,
     "timeYear": 398,
     "dailyMinutesDown": {}
   },
@@ -32,7 +32,7 @@
     "timeDay": 915,
     "timeWeek": 601,
     "timeMonth": 688,
-    "timeYear": 575,
+    "timeYear": 576,
     "dailyMinutesDown": {}
   },
   {
@@ -50,7 +50,7 @@
     "timeDay": 1341,
     "timeWeek": 1732,
     "timeMonth": 1662,
-    "timeYear": 1820,
+    "timeYear": 1819,
     "dailyMinutesDown": {}
   },
   {
@@ -76,15 +76,15 @@
     "url": "https://bgpropertyinvest.com/",
     "icon": "https://icons.duckduckgo.com/ip3/bgpropertyinvest.com.ico",
     "slug": "bg-property-invest",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 547,
-    "timeDay": 486,
-    "timeWeek": 574,
+    "timeDay": 498,
+    "timeWeek": 575,
     "timeMonth": 556,
     "timeYear": 553,
     "dailyMinutesDown": {}
@@ -104,7 +104,7 @@
     "timeDay": 1102,
     "timeWeek": 1134,
     "timeMonth": 1183,
-    "timeYear": 1254,
+    "timeYear": 1255,
     "dailyMinutesDown": {}
   },
   {
@@ -140,7 +140,7 @@
     "timeDay": 1258,
     "timeWeek": 1479,
     "timeMonth": 1415,
-    "timeYear": 1646,
+    "timeYear": 1648,
     "dailyMinutesDown": {}
   }
 ]
