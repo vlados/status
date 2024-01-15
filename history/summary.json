@@ -85,7 +85,7 @@
     "time": 552,
     "timeDay": 387,
     "timeWeek": 489,
-    "timeMonth": 530,
+    "timeMonth": 531,
     "timeYear": 553,
     "dailyMinutesDown": {}
   },
@@ -112,7 +112,7 @@
     "url": "https://oms-engineering.net/",
     "icon": "https://icons.duckduckgo.com/ip3/oms-engineering.net.ico",
     "slug": "oms-engeneering",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
