@@ -14,7 +14,7 @@
     "timeDay": 286,
     "timeWeek": 366,
     "timeMonth": 418,
-    "timeYear": 444,
+    "timeYear": 445,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 661,
     "timeWeek": 510,
     "timeMonth": 485,
-    "timeYear": 582,
+    "timeYear": 583,
     "dailyMinutesDown": {}
   },
   {
@@ -50,7 +50,7 @@
     "timeDay": 1200,
     "timeWeek": 1241,
     "timeMonth": 1241,
-    "timeYear": 1542,
+    "timeYear": 1540,
     "dailyMinutesDown": {}
   },
   {
@@ -68,7 +68,7 @@
     "timeDay": 462,
     "timeWeek": 617,
     "timeMonth": 579,
-    "timeYear": 651,
+    "timeYear": 652,
     "dailyMinutesDown": {}
   },
   {
@@ -104,7 +104,7 @@
     "timeDay": 2206,
     "timeWeek": 2135,
     "timeMonth": 1887,
-    "timeYear": 2018,
+    "timeYear": 2020,
     "dailyMinutesDown": {}
   },
   {
@@ -112,17 +112,17 @@
     "url": "https://oms-engineering.net/",
     "icon": "https://icons.duckduckgo.com/ip3/oms-engineering.net.ico",
     "slug": "oms-engeneering",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 661,
-    "timeDay": 395,
-    "timeWeek": 429,
-    "timeMonth": 467,
-    "timeYear": 650,
+    "time": 660,
+    "timeDay": 388,
+    "timeWeek": 428,
+    "timeMonth": 466,
+    "timeYear": 649,
     "dailyMinutesDown": {}
   },
   {
@@ -140,7 +140,7 @@
     "timeDay": 1489,
     "timeWeek": 1637,
     "timeMonth": 1594,
-    "timeYear": 1545,
+    "timeYear": 1546,
     "dailyMinutesDown": {}
   }
 ]
