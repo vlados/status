@@ -4,17 +4,17 @@
     "url": "https://www.vladko.dev",
     "icon": "https://icons.duckduckgo.com/ip3/www.vladko.dev.ico",
     "slug": "vladko-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 562,
-    "timeDay": 403,
-    "timeWeek": 411,
-    "timeMonth": 682,
-    "timeYear": 596,
+    "time": 583,
+    "timeDay": 6617,
+    "timeWeek": 1963,
+    "timeMonth": 1011,
+    "timeYear": 625,
     "dailyMinutesDown": {}
   },
   {
@@ -50,7 +50,7 @@
     "timeDay": 2158,
     "timeWeek": 1484,
     "timeMonth": 1468,
-    "timeYear": 1422,
+    "timeYear": 1423,
     "dailyMinutesDown": {}
   },
   {
@@ -122,7 +122,7 @@
     "timeDay": 875,
     "timeWeek": 690,
     "timeMonth": 698,
-    "timeYear": 652,
+    "timeYear": 653,
     "dailyMinutesDown": {}
   },
   {
