@@ -130,17 +130,17 @@
     "url": "https://galardo.bg/",
     "icon": "https://icons.duckduckgo.com/ip3/galardo.bg.ico",
     "slug": "galardo-bg",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1955,
-    "timeDay": 1743,
-    "timeWeek": 1877,
-    "timeMonth": 2157,
-    "timeYear": 1941,
+    "time": 1956,
+    "timeDay": 1926,
+    "timeWeek": 1923,
+    "timeMonth": 2160,
+    "timeYear": 1942,
     "dailyMinutesDown": {}
   }
 ]
