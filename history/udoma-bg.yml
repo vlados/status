@@ -1,7 +1,7 @@
 url: https://www.udoma.bg
-status: up
-code: 200
-responseTime: 376
-lastUpdated: 2025-05-16T23:00:17.629Z
+status: down
+code: 500
+responseTime: 418
+lastUpdated: 2025-05-17T20:16:06.360Z
 startTime: 2021-12-25T20:56:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
